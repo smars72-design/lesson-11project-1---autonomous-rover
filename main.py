@@ -40,8 +40,6 @@ def turn_right(speed):
 def emergency_stop_active():
     # Replace with the emergency-stop input approved for the class Rover.
     return input.button_is_pressed(Button.A) and input.button_is_pressed(Button.B)
-
- MakeCode Python-style program (continued)
 stop_motors()
 basic.show_icon(IconNames.SQUARE)
 basic.pause(2000)

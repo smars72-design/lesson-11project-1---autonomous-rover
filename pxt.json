@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "ExRobot": "github:stempunks/exrobot#57014544118d40770971bd2a1de9e2abc2e041a5"
     },
     "files": [
         "main.blocks",
