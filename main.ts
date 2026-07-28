@@ -1,4 +1,4 @@
-//  NAT10935006 AT2 - autonomous obstacle avoidance
+//  NAT10935006 AT2 - STEMPunks Rover autonomous obstacle avoidance
 //  Replace the adapter function contents with the class kit blocks.
 let STOP_DISTANCE_CM = 20
 let SLOW_DISTANCE_CM = 30
